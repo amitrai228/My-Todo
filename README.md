@@ -36,7 +36,7 @@ Model–view–viewmodel (MVVM) is a software architectural pattern. MVVM facili
 
 **Prerequisties**
 1. Android Studio (IDE)
-2. Android SDK v28
+2. Android SDK
 
 **Libraries Used**
 1. LiveData
