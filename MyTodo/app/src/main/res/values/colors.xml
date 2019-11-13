@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#717e87</color>
+    <color name="colorPrimaryDark">#1c1c1e</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#0883fc</color>
+
+    <!-- colors todo priority selection -->
+    <color name="materialGreen">#2fd05c</color>
+    <color name="materialOrange">#fe9e09</color>
+    <color name="materialYellow">#ffd60c</color>
+
+</resources>
